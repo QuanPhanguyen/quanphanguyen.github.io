@@ -1,11 +1,11 @@
 # Site settings
-title: Erwin's Blog
-SEOTitle: Erwin Blog
+title: Quan Phanguyen
+SEOTitle: Quan Phanguyen
 header-img: img/home-bg.jpg
-email: erwin.lejeune15@gmail.com
+email: quanphanguyen@gmail.com
 description: "Erwin's Blog Page | Learning, Lifestyle, Experiences"
 keyword: "Erwin, Erwin Blog, Erwin Lejeune, Github Pages, Web, JavaScript, React, React Native"
-url: "guilyx.github.com" # your host, for absolute URL
+url: "quanphanguyen.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
