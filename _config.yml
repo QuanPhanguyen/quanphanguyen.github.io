@@ -72,7 +72,7 @@ ga_domain: guilyx.github.io
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Quan Phanguyen"
-sidebar-avatar: https://github.com/guilyx.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/quanphanguyen.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
