@@ -2,9 +2,9 @@ My name is Quan Phanguyen.
 
 I've been inking down stories since I was nine years old. My first publication arrived in the form of a Minecraft fanfiction posted on Wattpad, and it was soon followed in the next year by a realm-bending tale of me and my friends with elements suspiciously akin to a children's novel dealing with a feline, an arcanist, and a closet. 
 
-I play piano, I practice stenography, I do digital art, traditional art, other types of art, I make edits to songs I enjoy with clips of videos I feel strongly about, I have a Youtube channel that's more like an archive of moments I remember fondly, and I host games like Dungeons and Dragons, scavenger hunts, or contests/quizzes/challenges to bring some joy into my friend's sad lives. Where would they be without me.
+I play piano, I write fan fiction, I practice stenography, I do digital art, traditional art, all sorts of other types of art, I make edits to songs I enjoy with clips of videos I feel strongly about, I have a Youtube channel that's more like an archive of moments I remember fondly, and I host games like Dungeons and Dragons, scavenger hunts, or contests/quizzes/challenges to bring some joy into my friend's sad lives. Where would they be without me.
 
-I write too, I suppose. 
+I write, too. 
 
 UC Berkeley graciously bestowed upon me a B.A in English in 2024. I additionally completed a Minor in Creative Writing while serving as an Editor for Berkeley's student-run publication journal, Berkeley Fiction Review. 
 
