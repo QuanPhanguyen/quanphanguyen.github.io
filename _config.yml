@@ -3,8 +3,8 @@ title: Quan Phanguyen
 SEOTitle: Quan Phanguyen
 header-img: img/home-bg.jpg
 email: quanphanguyen@gmail.com
-description: "Erwin's Blog Page | Learning, Lifestyle, Experiences"
-keyword: "Erwin, Erwin Blog, Erwin Lejeune, Github Pages, Web, JavaScript, React, React Native"
+description: "Quan's Portfolio"
+keyword: "Quan, Quan Portfolio, Quan Phanguyen, Github Pages, Web, JavaScript, React, React Native"
 url: "quanphanguyen.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: guilyx
-twitter_username: rangonomics
+github_username: QuanPhanguyen
+twitter_username: litplitty
 #facebook_username:  huxpro
-linkedin_username:  erwinlejeune-lkn
+linkedin_username:  quan-phanguyen
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
