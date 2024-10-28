@@ -1,7 +1,7 @@
 {
-  "name": "Erwins Blog",
-  "short_name": "Erwins Blog",
-  "description": "Yet another software engineer oversharing.",
+  "name": "Quan's Portfolio",
+  "short_name": "Quan's Portfolio",
+  "description": "A writer fueled by willpower.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
