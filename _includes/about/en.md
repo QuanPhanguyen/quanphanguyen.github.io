@@ -4,11 +4,11 @@ I've been inking down stories since I was nine years old. My first publication a
 
 I play piano, I practice stenography, I do digital art, traditional art, other types of art, I make edits to songs I enjoy with clips of videos I feel strongly about, I have a Youtube channel that's more like an archive of moments I remember fondly, and I host games like Dungeons and Dragons, scavenger hunts, or contests/quizzes/challenges to bring some joy into my friend's sad lives. Where would they be without me.
 
-I write too, I suppose.
+I write too, I suppose. 
 
-UC Berkeley has graciously bestowed upon me a B.A in English in 2024. I additionaly completed a Minor in Creative Writing while holding the role of Editor for Berkeley's student ran publication journal, Berkeley Fiction review. 
+UC Berkeley graciously bestowed upon me a B.A in English in 2024. I additionally completed a Minor in Creative Writing while serving as an Editor for Berkeley's student-run publication journal, Berkeley Fiction Review. 
 
-My goals for the future are to be a published author and to have involvement in the storytelling process of tabletop or video games. It would be a dream to be a part of a published D&D campaign module or an indie or Triple-A game.
+My goals for the future are to be a published author and to be involved in the storytelling process of tabletop or video games. It would be a dream to be part of a published D&D campaign module or an indie or Triple-A game.
 
 <!-- Hey, I am Erwin Lejeune (a.k.a. _@rangonomics_, _@wardn_). I am a Robotics Engineer by degree, but I consider myself a Software Engineer at the core and have not limited myself to Robotics and its transversal fields. I have deployed web apps for blockchain analytics, trading (don't use it) bots, investment analytics apps, web3 and many more projects.
 
