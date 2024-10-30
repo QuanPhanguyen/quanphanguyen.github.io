@@ -1498,11 +1498,6 @@ img::-moz-selection {
 /* #tag_cloud {
   margin: 20px 0 15px 0;
 } */
-/* Adjust tags to wrap within the container */
-#tag_cloud {
-  width: 100%; /* Take full width within the centered container */
-  text-align: center; /* Center-align the tags */
-}
 #tag_cloud a,
 #tag_cloud .tag {
   transition-property: all;
@@ -1540,6 +1535,16 @@ img::-moz-selection {
 #tag_cloud .tag.tag-button--all.focus {
   background-color: #e4e4e4 !important;
 }
+/* Centering content within the left column */
+#tag_cloud, .mini-post-list {
+  width: 100%; /* Take full width within the left column */
+}
+/* Optional styling to align the tags and posts text to the left */
+#tag_cloud {
+  display: flex;
+  flex-wrap: wrap; /* Wraps tags within the available width */
+}
+
 @media only screen and (min-width: 768px) {
   #tag_cloud {
     margin-bottom: 25px;
@@ -1569,9 +1574,12 @@ img::-moz-selection {
     line-height: 2 !important;
   }
 }
-.mini-post-list {
+/* .mini-post-list {
   width: 100%;
   text-align: center;
+} */
+.mini-post-list {
+  text-align: left; /* Align text to the left */
 }
 .mini-post-list .tag-text {
   font-weight: 200;
@@ -1707,4 +1715,21 @@ img::-moz-selection {
   align-items: center;
   width: 66%; /* Set this to two-thirds of the page width */
   margin: 0 auto; /* Centers the container within its parent */
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+/* Left column for tags and posts */
+.left-column {
+  width: 66.67%; /* Left two-thirds of the page */
+  padding-right: 20px; /* Optional padding for spacing */
+}
+
+/* Right column placeholder */
+.right-column {
+  width: 33.33%; /* Right one-third of the page */
+  padding-left: 20px;
 }
