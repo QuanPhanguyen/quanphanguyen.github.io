@@ -1566,8 +1566,11 @@ img::-moz-selection {
 }
 .mini-post-list {
   /* margin: 20px 0 15px 0; */
-  max-width: 66%;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers each post preview */
+  max-width: 100%; /* Ensures the posts do not exceed the container */
+  text-align: center; /* Centers text within each post preview */
 }
 .mini-post-list .tag-text {
   font-weight: 200;
@@ -1695,4 +1698,11 @@ img::-moz-selection {
 }
 .no-scroll {
   overflow-y: hidden;
+}
+/* Wrapper for centering within the left two-thirds */
+.centered-container {
+  display: flex;
+  justify-content: center; /* Centers the content within the two-thirds width */
+  width: 66%; /* Set this to two-thirds of the page width */
+  margin: 0 auto; /* Centers the container within its parent */
 }
