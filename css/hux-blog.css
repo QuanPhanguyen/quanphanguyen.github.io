@@ -1731,4 +1731,5 @@ img::-moz-selection {
 /* Right column placeholder */
 .right-column {
   width: 33.33%; /* Right one-third of the page */
+  padding-left: 20px;
 }

@@ -85,7 +85,18 @@ https://github.com/kitian616/jekyll-TeXt-theme
 
 			<div class="right-column">
 				<!-- PLACEHOLDER FOR RIGHT CONTENT-->
-			</div>
+				{% assign individual_files = site.posts | where: "path", "/_posts/individual" %}
+				{% for file in individual_files %}
+				<div class="post-preview item">
+					<a href="{{ file.url | prepend: site.baseurl }}">
+						<h2 class="post-title">{{ file.title }}</h2>
+						{% if file.subtitle %}
+						<h3 class="post-subtitle">{{ file.subtitle }}</h3>
+						{% endif %}
+					</a>
+					<hr>
+				</div>
+				{% endfor %}
 		</div>
 	</div>
 </div>
