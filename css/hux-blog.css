@@ -1565,7 +1565,9 @@ img::-moz-selection {
   }
 }
 .mini-post-list {
-  margin: 20px 0 15px 0;
+  /* margin: 20px 0 15px 0; */
+  max-width: 66%;
+  text-align: center;
 }
 .mini-post-list .tag-text {
   font-weight: 200;
