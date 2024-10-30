@@ -13,6 +13,8 @@ tags:
 
 > A fairy's mischief and magic envelops you during a nap. 
 
+***Fastidious Felix’s Ferry promises the most lax journey through all of Sword Coast. The suspensions and axles (along with some magical enhancements) on the cart give the feeling that you’re simply floating through the air. There are many set destinations on this voyage, working like a bus system, and that’s where you find yourselves on this lovely afternoon.***
+
 One-shot with an extremely quick turnaround of a few days while also being friendly enough to accomodate a new player. This was ran smoothly online multiple times with an average duration of two to three hours. A standard one-shot progression featuring a puzzle, a social event, and a boss fight.
 
 Music composed by me for the puzzle. Boss fight introduces a new phase mechanic that I end up toying around with in future monster creations.
