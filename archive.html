@@ -17,7 +17,7 @@ header-img: "img/archive.jpg"
       <div id="tag_cloud" class="tags tags-sup js-tags">
         <a class="tag-button--all" data-encode="">
           Show All
-          <sup>{{ site.posts | where_exp: "post", "post.categories contains 'individuals' == false" | size }}</sup>
+          {% assign post_count = site.posts where_exp: "item", "not item.categories contains 'individuals'" size %}
         </a>
 
         {% capture tags %}
@@ -113,4 +113,3 @@ header-img: "img/archive.jpg"
     </div>
   </div>
 </div>
-
