@@ -1495,8 +1495,13 @@ img::-moz-selection {
     padding: 55px 0;
   }
 }
-#tag_cloud {
+/* #tag_cloud {
   margin: 20px 0 15px 0;
+} */
+/* Adjust tags to wrap within the container */
+#tag_cloud {
+  width: 100%; /* Take full width within the centered container */
+  text-align: center; /* Center-align the tags */
 }
 #tag_cloud a,
 #tag_cloud .tag {
@@ -1565,12 +1570,8 @@ img::-moz-selection {
   }
 }
 .mini-post-list {
-  /* margin: 20px 0 15px 0; */
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Centers each post preview */
-  max-width: 100%; /* Ensures the posts do not exceed the container */
-  text-align: center; /* Centers text within each post preview */
+  width: 100%;
+  text-align: center;
 }
 .mini-post-list .tag-text {
   font-weight: 200;
@@ -1702,7 +1703,8 @@ img::-moz-selection {
 /* Wrapper for centering within the left two-thirds */
 .centered-container {
   display: flex;
-  justify-content: center; /* Centers the content within the two-thirds width */
+  flex-direction: column;
+  align-items: center;
   width: 66%; /* Set this to two-thirds of the page width */
   margin: 0 auto; /* Centers the container within its parent */
 }
