@@ -10,6 +10,6 @@ tags:
   - No Attunement
 ---
 
+> Live out your life stealing knight dreams.
 
-
-### [Homebrewery  →](https://homebrewery.naturalcrit.com/share/_KB8DXHkCVKl) <!-- Link to full story -->
+![My Image](/assets/images/ethos.png "ethos")
