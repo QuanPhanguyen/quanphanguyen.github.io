@@ -6,28 +6,6 @@ header-img: "img/archive.jpg"
 ---
 
 <!-- Page Header -->
-description: "「 Keep track of your notes 」"
-header-img: "img/library.jpg"
----
-
-<<<<<<< HEAD
-<!-- Main Content -->
-<div class="container">
-    <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <!-- Regular Posts Archive -->
-            <div class="post-preview archive-section">
-                <h2>Blog Posts</h2>
-                <!-- Tags -->
-                <div id="tag_cloud" class="tags">
-                    {% for tag in site.tags %}
-                    {% unless tag[0] contains 'individual-' %}
-                    <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
-                    {% endunless %}
-                    {% endfor %}
-                </div>
-=======
-<-- Page Header -->
 {% include intro-header.html type='page' short=true %}
 
 <!-- Main Content -->
@@ -41,67 +19,97 @@ header-img: "img/library.jpg"
           Show All
           {% assign post_count = site.posts where_exp: "item", "not item.categories contains 'individuals'" size %}
         </a>
->>>>>>> b661c35356feb84b024248b3a5f3d6d3fa947465
 
-                <!-- Article List -->
-                <div class="mini-post-list">
-                    {% for tag in site.tags %}
-                    {% unless tag[0] contains 'individual-' %}
-                    <h2 id="{{ tag[0] }}" class="archive-title">{{ tag[0] }}</h2>
-                    <ul>
-                        {% for post in tag[1] %}
-                        {% unless post.path contains '/individual/' %}
-                        <li>
-                            <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
-                            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                        </li>
-                        {% endunless %}
-                        {% endfor %}
-                    </ul>
-                    {% endunless %}
-                    {% endfor %}
-                </div>
-            </div>
+        {% capture tags %}
+        {% for tag in site.tags %}
+        <a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}"
+          data-encode="{{ tag[0] | strip | url_encode }}" class="tag-button" title="{{ tag[0] }}"
+          rel="{{ tag[1].size }}">
+          {{ tag[0] }}
+          <sup>{{ tag[1].size }}</sup>
+        </a>__SEPERATOR__
+        {% endfor %}
+        {% endcapture %}
+        {{ tags | split: '__SEPERATOR__' | sort }}
+      </div>
 
-            <!-- Individual Posts Section -->
-            <div class="post-preview archive-section individual-section">
-                <h2>Individuals</h2>
-                <!-- Individual Tags -->
-                <div id="individual_tag_cloud" class="tags">
-                    {% for tag in site.tags %}
-                    {% if tag[0] contains 'individual-' %}
-                    <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] | remove: 'individual-' }}</a>
-                    {% endif %}
-                    {% endfor %}
-                </div>
+      <!-- Archive Posts -->
+      <div class="mini-post-list js-result d-none">
+        {% for post in site.posts %}
+        {% unless post.categories contains 'individuals' %}
+          {% assign _tags = '' %}
+          {% for tag in post.tags %}
+            {% assign _tag_encode = tag | strip | url_encode %}
+            {% if forloop.last %}
+              {% assign _tags = _tags | append: _tag_encode %}
+            {% else %}
+              {% assign _tags = _tags | append: _tag_encode | append: ',' %}
+            {% endif %}
+          {% endfor %}
 
-                <!-- Individual Articles List -->
-                <div class="mini-post-list">
-                    {% for post in site.posts %}
-                    {% if post.path contains '/individual/' %}
-                    <li>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                    </li>
-                    {% endif %}
-                    {% endfor %}
-                </div>
-            </div>
-        </div>
+          {% assign _currentdate = post.date | date: '%Y' %}
+          {% if _currentdate != _date %}
+            {% unless forloop.first %}</section>{% endunless %}
+            <section>
+              <span class="fa listing-seperator">
+                <span class="tag-text">{{ _currentdate }}</span>
+              </span>
+              {% assign _date = _currentdate %}
+          {% endif %}
+
+          <div class="post-preview item" data-tags="{{ _tags }}">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              <h2 class="post-title">{{ post.title }}</h2>
+              {% if post.subtitle %}
+              <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+              {% endif %}
+            </a>
+            <hr>
+          </div>
+          {% if forloop.last %}</section>{% endif %}
+        {% endunless %}
+        {% endfor %}
+      </div>
     </div>
-</div>
-<<<<<<< HEAD
 
-<!-- Tag Cloud -->
-<script src="{{ "/js/jquery.tagcloud.js" | prepend: site.baseurl }}"></script>
-<script>
-    $('#tag_cloud a').tagcloud({
-        size: {start: 1, end: 1, unit: 'em'},
-        color: {start: '#bbbbee', end: '#0085a1'},
-    });
-    $('#individual_tag_cloud a').tagcloud({
-        size: {start: 1, end: 1, unit: 'em'},
-        color: {start: '#bbbbee', end: '#0085a1'},
-    });
-</script>
-=======
->>>>>>> b661c35356feb84b024248b3a5f3d6d3fa947465
+    <!-- Right column (1/3 width) -->
+    <div class="col-md-4">
+      <h3>Individuals</h3>
+      <!-- Individual Tags -->
+      <div id="individual_tag_cloud" class="tags tags-sup js-tags">
+        <a class="tag-button--all" data-encode="">
+          Show All
+          <sup>{{ site.posts | where: "categories", "individuals" | size }}</sup>
+        </a>
+
+        {% assign individual_posts = site.posts | where: "categories", "individuals" %}
+        {% capture individual_tags %}
+        {% for post in individual_posts %}
+          {% for tag in post.tags %}
+            <a data-encode="{{ tag | strip | url_encode }}" class="tag-button" title="{{ tag }}">
+              {{ tag }}
+              <sup>{{ site.tags[tag] | size }}</sup>
+            </a>__SEPERATOR__
+          {% endfor %}
+        {% endfor %}
+        {% endcapture %}
+        {{ individual_tags | split: '__SEPERATOR__' | uniq }}
+      </div>
+
+      <!-- Individual Posts -->
+      {% for post in site.posts %}
+        {% if post.categories contains 'individuals' %}
+          <div class="post-preview item">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              <h2 class="post-title">{{ post.title }}</h2>
+              {% if post.subtitle %}
+              <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+              {% endif %}
+            </a>
+            <hr>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
