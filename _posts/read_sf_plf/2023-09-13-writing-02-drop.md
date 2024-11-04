@@ -3,11 +3,10 @@ layout:     post
 title:      "Drop"
 navcolor:   "Vietnamese Fantasy Chase Scene"
 date:       2023-09-13
-header-img: "assets/images/sympathizer.jpg"
-header-mask: 0.4
 author:     "Quan"
 tags:
     - Writing
+    - Short Fiction
 ---
 
 > For my first assignment in my Asian-American creative writing class, I
