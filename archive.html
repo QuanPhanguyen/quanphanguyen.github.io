@@ -1,10 +1,11 @@
----
+<!-- ---
 title: Archive
 layout: default
 description: "「 Keep track of your notes 」"
 header-img: "img/library.jpg"
 ---
 
+<<<<<<< HEAD
 <!-- Main Content -->
 <div class="container">
     <div class="row">
@@ -20,6 +21,22 @@ header-img: "img/library.jpg"
                     {% endunless %}
                     {% endfor %}
                 </div>
+=======
+<-- Page Header -->
+{% include intro-header.html type='page' short=true %}
+
+<!-- Main Content -->
+<div class="container">
+  <div class="row">
+    <!-- Left column (2/3 width) -->
+    <div class="col-md-8">
+      <!-- Tags (as filter) -->
+      <div id="tag_cloud" class="tags tags-sup js-tags">
+        <a class="tag-button--all" data-encode="">
+          Show All
+          {% assign post_count = site.posts where_exp: "item", "not item.categories contains 'individuals'" size %}
+        </a>
+>>>>>>> b661c35356feb84b024248b3a5f3d6d3fa947465
 
                 <!-- Article List -->
                 <div class="mini-post-list">
@@ -67,6 +84,7 @@ header-img: "img/library.jpg"
         </div>
     </div>
 </div>
+<<<<<<< HEAD
 
 <!-- Tag Cloud -->
 <script src="{{ "/js/jquery.tagcloud.js" | prepend: site.baseurl }}"></script>
@@ -80,3 +98,5 @@ header-img: "img/library.jpg"
         color: {start: '#bbbbee', end: '#0085a1'},
     });
 </script>
+=======
+>>>>>>> b661c35356feb84b024248b3a5f3d6d3fa947465
