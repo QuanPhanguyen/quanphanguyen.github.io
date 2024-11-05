@@ -20,6 +20,8 @@ tags:
 
 ## [Outline](https://docs.google.com/document/d/e/2PACX-1vQlpuGlSq5z-QctAPin5zlD41nuq6Tt5eyMMDyVN0BElgIcVEtzLChln3uRt38aR3XAt3KG61I3JXdR/pub) <!-- Link to full story -->
 
+![My Image](/assets/images/decisionmin.png "decision")
+
 *This story has been formatted to accustom this web browser. Whenever you see the symbols "[[]]" with a question above it centered on the page, it is an indicator that you must make a decision. Head toward the next bolded title with your choice's name.*
 
 

@@ -11,10 +11,11 @@ tags:
     - Short Fiction
 ---
 
-> For my final assignment in my Asian-American creative writing class, I placed my full beating heart. One
-> piece of feedback I received for this work was the question, why does it exist? What is its purpose? I 
-> tried to instill the feeling as hard as possible that it was purposeless. If this sounds snobbish, 
-> proud, and haughty, it is. That is who I am. I cried when finishing this piece because it took all of
+> For my final assignment in my Asian-American creative writing class, I placed my full beating heart. I 
+> was heavily inspired by Viet Thanh Nguyen's ideas of Nothing in *The Sympathizer*. One 
+> piece of feedback I received for this work was the question, why does it exist? What is its purpose? I  
+> tried to instill the feeling as hard as possible that it was purposeless. If this sounds snobbish,  
+> proud, and haughty, it is. That is who I am. I cried when finishing this piece because it took all of 
 > me. Thank you for your time.
 
 This will be a dirty confession.
@@ -95,7 +96,7 @@ Sorry. That’s my distortion of what they said. Even if you’re unsure of what
 
 *Không có gì*, or *khoong cos gif* when typed using a United States keyboard layout, or *it was nothing* when used as a phrase on its own after you thank your parents for doing something for you, or nothing is more important when combined with two topics as the first half of a sentence, or the start of my parent's rebuttal to me when I argued with them that it was time for me to pick up a shift at Lucky’s to contribute to our piling bills, is something I’ve fixated on my entire life.
 
-On its own, it would never mean nothing is more important because we consider that phrase, even here in the States, to be incomplete. 
+On its own, it would never mean *nothing is more important* because we consider that phrase, even here in the States, to be incomplete. 
 
 Không có gì quan trọng hơn hạnh phúc của con.
 
@@ -137,17 +138,17 @@ I am appeasing a dirty part of myself.
 
 Even as my language grows to new heights, built continually upon with the visage of my interview being its foundation, I continue to write dirtily, because when you make a dirty rag more clean, if you can even know if in this situation we are making a dirty rag cleaner or a near-clean rag dirtier– I certainly hope I am doing the former, they are both still dirty regardless. 
 
-— 1a: not clean or pure
+*— 1a: not clean or pure*
 
-The Vietnamese word for dirty is dơ. It is near-identical to its counterpart in English, used in every instance you can imagine dirty being used. When I asked my parents what they thought of same-sex relationships, about a year before I started dating my wife but a lifetime after I knew I was gay, they said it was dơ.
+The Vietnamese word for dirty is *dơ.* It is near-identical to its counterpart in English, used in every instance you can imagine dirty being used. When I asked my parents what they thought of same-sex relationships, about a year before I started dating my wife but a lifetime after I knew I was gay, they said it was *dơ.*
 
-I say the word dơ is near-identical because if I were to say my parents thought of same-sex relationships as dirty, it would imply they thought it was a not pure, standard love, and that they were not fond of it. When my parents said what they said, they also very much meant it as a not pure, standard love, but they knew it existed regardless.
+I say the word *dơ* is near-identical because if I were to say my parents thought of same-sex relationships as dirty, it would imply they thought it was a not pure, standard love, and that they were not fond of it. When my parents said what they said, they also very much meant it as a not pure, standard love, but they knew it existed regardless.
 
 Do you understand? I courted the side of false ambivalence.
 
 When I introduced the topic of my girlfriend to my parents, I wasn’t anxious about whether they’d disown me or not. Recall.
 
-Không có gì quan trọng hơn hạnh phúc của con.
+*Không có gì quan trọng hơn hạnh phúc của con.*
 
 I was worried about their happiness. Isn’t that a very filial daughter thing to do, be concerned with whether or not your parents will like the person you’re dating? I remember the exact moment I told my mother. We were washing dishes together as my dad snored on the couch in the living room. The entire time I scrubbed plates with eyes glazed over, I was building up confidence to out myself. I’m of the opinion that when you love someone, you’re able to spend hours in silence doing nothing with each other. Our love for each other, ironically, allowed me to speak, because if we began a conversation about idle chit-chat then and there, I think my mother would’ve died not knowing who I was. 
 
