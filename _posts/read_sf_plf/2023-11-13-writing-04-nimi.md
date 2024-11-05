@@ -5,16 +5,18 @@ subtitle:   "One Vietnamese-American Life"
 navcolor:   "invert"
 header-style: text
 date:       2023-11-13
+pinned: true
 author:     "Quan"
 tags:
     - Writing
     - Short Fiction
 ---
 
-> For my final assignment in my Asian-American creative writing class, I placed my full beating heart. One
-> piece of feedback I received for this work was the question, why does it exist? What is its purpose? I 
-> tried to instill the feeling as hard as possible that it was purposeless. If this sounds snobbish, 
-> proud, and haughty, it is. That is who I am. I cried when finishing this piece because it took all of
+> For my final assignment in my Asian-American creative writing class, I placed my full beating heart. I 
+> was heavily inspired by Viet Thanh Nguyen's ideas of Nothing in *The Sympathizer*. One 
+> piece of feedback I received for this work was the question, why does it exist? What is its purpose? I  
+> tried to instill the feeling as hard as possible that it was purposeless. If this sounds snobbish,  
+> proud, and haughty, it is. That is who I am. I cried when finishing this piece because it took all of 
 > me. Thank you for your time.
 
 This will be a dirty confession.
@@ -29,7 +31,9 @@ Regardless of what I say, you will come up with your own conclusions about how t
 
 So, once again, let me begin. 
 
+
 *—  2a: morally unclean or corrupt: such as*
+
 
 I was eight years old when I first felt what having sex was like.
 
@@ -57,7 +61,9 @@ But I know.
 
 I know what sex is before I know what sex means.
 
+
 *— (1): INDECENT, VULGAR*
+
 
 For how enamored my parents are over each other, it’s a wonder this only happened to me a few times. I’m sure there were many more instances in which I didn’t wake up.
 
@@ -75,7 +81,9 @@ I have been called a backward savage for less. I think real backward savagery is
 
 So hold nothing against them.
 
+
 *— (2): DISHONORABLE, BASE*
+
 
 How are you feeling about the confession so far? I would list some possible inklings you may have, but I have lied sunken in between these dreaming clouds of nothing-thoughts for so long that not only can I no longer hold any major feelings about it anymore, I have no memory of what those feelings could be. I only ask for one thing, and that is for you to not treat this as a tragedy. 
 
@@ -95,7 +103,7 @@ Sorry. That’s my distortion of what they said. Even if you’re unsure of what
 
 *Không có gì*, or *khoong cos gif* when typed using a United States keyboard layout, or *it was nothing* when used as a phrase on its own after you thank your parents for doing something for you, or nothing is more important when combined with two topics as the first half of a sentence, or the start of my parent's rebuttal to me when I argued with them that it was time for me to pick up a shift at Lucky’s to contribute to our piling bills, is something I’ve fixated on my entire life.
 
-On its own, it would never mean nothing is more important because we consider that phrase, even here in the States, to be incomplete. 
+On its own, it would never mean *nothing is more important* because we consider that phrase, even here in the States, to be incomplete. 
 
 Không có gì quan trọng hơn hạnh phúc của con.
 
@@ -103,7 +111,9 @@ The phrase I omitted the first time, của con, should not be mistaken with just
 
 To deeply care for your parents is the greatest act of love and betrayal you can show them.
 
+
 *— (3): UNSPORTSMANLIKE*
+
 
 Do you need a breather? I think I remember being unable to get out of bed for the entire day after I had that argument with my parents. We had fought before (it always looks like a fight to an outsider, but it was really the only way we knew how to talk) but not like this. If the fights before were the cheap 25¢ firecrackers you buy in those small boxes filled with grain and wrapped in cheap paper, making noisy yet meaningless pops, the one on that day was the black and white videos of napalm falling on our country. Dampened sound, uncanny clarity, and no footage of a real aftermath. Only an imagined one. 
 
@@ -137,17 +147,19 @@ I am appeasing a dirty part of myself.
 
 Even as my language grows to new heights, built continually upon with the visage of my interview being its foundation, I continue to write dirtily, because when you make a dirty rag more clean, if you can even know if in this situation we are making a dirty rag cleaner or a near-clean rag dirtier– I certainly hope I am doing the former, they are both still dirty regardless. 
 
-— 1a: not clean or pure
 
-The Vietnamese word for dirty is dơ. It is near-identical to its counterpart in English, used in every instance you can imagine dirty being used. When I asked my parents what they thought of same-sex relationships, about a year before I started dating my wife but a lifetime after I knew I was gay, they said it was dơ.
+*— 1a: not clean or pure*
 
-I say the word dơ is near-identical because if I were to say my parents thought of same-sex relationships as dirty, it would imply they thought it was a not pure, standard love, and that they were not fond of it. When my parents said what they said, they also very much meant it as a not pure, standard love, but they knew it existed regardless.
+
+The Vietnamese word for dirty is *dơ.* It is near-identical to its counterpart in English, used in every instance you can imagine dirty being used. When I asked my parents what they thought of same-sex relationships, about a year before I started dating my wife but a lifetime after I knew I was gay, they said it was *dơ.*
+
+I say the word *dơ* is near-identical because if I were to say my parents thought of same-sex relationships as dirty, it would imply they thought it was a not pure, standard love, and that they were not fond of it. When my parents said what they said, they also very much meant it as a not pure, standard love, but they knew it existed regardless.
 
 Do you understand? I courted the side of false ambivalence.
 
 When I introduced the topic of my girlfriend to my parents, I wasn’t anxious about whether they’d disown me or not. Recall.
 
-Không có gì quan trọng hơn hạnh phúc của con.
+*Không có gì quan trọng hơn hạnh phúc của con.*
 
 I was worried about their happiness. Isn’t that a very filial daughter thing to do, be concerned with whether or not your parents will like the person you’re dating? I remember the exact moment I told my mother. We were washing dishes together as my dad snored on the couch in the living room. The entire time I scrubbed plates with eyes glazed over, I was building up confidence to out myself. I’m of the opinion that when you love someone, you’re able to spend hours in silence doing nothing with each other. Our love for each other, ironically, allowed me to speak, because if we began a conversation about idle chit-chat then and there, I think my mother would’ve died not knowing who I was. 
 
@@ -167,7 +179,9 @@ My mother cared more about whether or not my partner was Vietnamese than whether
 
 I’m very lucky. If I had answered with a non-Asian race, I think I would’ve really gotten disowned (though with the size of the pause before her acceptance, I think Asians not from the Southeast would’ve been a dangerous answer too). What would I have done if things had not turned out this way? Here’s the wonderful part about a written confession. You don’t get to know.
 
-— 1b: likely to befoul or defile with a soiling substance (such as mud, dust, or grime)
+
+*— 1b: likely to befoul or defile with a soiling substance (such as mud, dust, or grime)*
+
 
 Is it time I introduce my girlfriend, wife, lover? Well, what do you wish to know? We met at work– or, well, when I was at work. She was a college student who did most of her grocery shopping around the same time I was working (ignore her yelling it was a coincidence in the background, it was very much intentional). You have to remember we were horny adults who had never gotten any action in the 90s. Progression hindered by repression and suppression. We became friends, waded the muddy water between romantic and platonic for half a year, and sealed the deal with a charged exchange.
 
@@ -187,15 +201,17 @@ Eventually, late that night, after my lover and I were long asleep, I’d be awo
 
 “Mẹ bị trúng gió.”
 
-— 3b: highly regrettable
 
-Vietnamese people believe in the idea of a “dirty wind.” Trúng gió. Dirty isn’t the correct word to describe it, but it is as close as you will get. It’s a superstition. It’s a way to cope. It’s nonsense. It goes as follows:
+*— 3b: highly regrettable*
+
+
+Vietnamese people believe in the idea of a “dirty wind.” *Trúng gió.* Dirty isn’t the correct word to describe it, but it is as close as you will get. It’s a superstition. It’s a way to cope. It’s nonsense. It goes as follows:
 
 Essentially, sparse between the layers of wind, there are certain malignant bales which can descend upon anyone at any time to afflict them with an assortment of maladies or ailments. 
 
 The solution? 
 
-Cupping therapy and Eagle Brand Medicated Oil. Funnily, instead of being medicinal to me as a child, I always thought of them as sickly items. Going too far in one direction brings you back to the other. Giác hơi. By sucking on someone’s back using heated cups, you essentially drag the poisonous, cursed air out of them. 
+Cupping therapy and Eagle Brand Medicated Oil. Funnily, instead of being medicinal to me as a child, I always thought of them as sickly items. Going too far in one direction brings you back to the other. *Giác hơi.* By sucking on someone’s back using heated cups, you essentially drag the poisonous, cursed air out of them. 
 
 It was slightly difficult to convince the American doctors at the time to try this out while my mom was hospitalized. I had to wonder: Why do they care so much? Ba and I are the ones paying them the exorbitant amount of money, they should let us put hot cups on her back if we want.
 
@@ -205,7 +221,9 @@ It is a little bit funny in retrospect. Here I was, thinking about how my new re
 
 I had been drifting in substance this entire time.
 
-— 3a: ABOMINABLE, HATEFUL
+
+*— 3a: ABOMINABLE, HATEFUL*
+
 
 I am twenty-five years old when I am called a slur for the first time. It was a crazed customer looking for the manager of the manager. 
 
@@ -227,7 +245,9 @@ The reason why you become drunk when drinking alcohol is because the ethanol ins
 
 What a lovely instrument. Now I could make my outsides clean and my insides dirty.
 
-— 1d: containing impurities
+
+*— 1d: containing impurities*
+
 
 Do you remember when I said that this story would not be a tragedy? Or have you forgotten? It’s alright if you have, this has been a loose collection of blurriness, literally and metaphorically. I will conclude and you can draw your own conclusion. 
 
@@ -247,10 +267,10 @@ Nothing is more important than happiness.
 
 Nothing is more important.
 
-Nothing
+*Nothing*
 is more important.
 
-Because when I begin my weekly visits to my parent’s house, as opposed to my parents’ house, I know if I tried to recall the last time we’ve eaten as three I wouldn’t be able to remember, and I wonder if I ever was able to remember, when I sleep in sheets, regardless of whether they’re clean, regardless of whether I’m sleeping alone or with her or with my parents, I can feel about the invisible intangible sediments of our bodies’ earth soiling into the cloth, dead reminders I am alive, when I fuck with absolute depravity and desperation my conservative mind screams at me about how wrong it is and I imagine how I’d use to sweep dust into a corner of the house thinking if I couldn’t see it it didn’t exist, thinking if two people fucked in a forest and no one was around to hear it, they clearly weren’t doing it right, when I walk the still streets of soft sunrise I can’t help but wonder if being on the ground and being in the sky are two sidewalks on the same road, I wonder if I jumped, my feet not even fully leaving the concrete, at what point I’d traverse from one into the other and if it’d even matter now knowing the richness both contain, because when I live my dirty life with nothing as the forerunning theme, no prospects, no dreams, and no chance of furthering my relationship with my parents, I am doing exactly what ba má ask of me, because it is impossible to live with complete purity, or blank absence, or infinite happiness, or whatever you want to call it. I live my life fully filled with nothing. And, for me and all of the other invaders of this country, that’s more than enough.
+Because when I begin my weekly visits to my parent’s house, as opposed to my parents’ house, I know if I tried to recall the last time we’ve eaten as three I wouldn’t be able to remember, and I wonder if I ever was able to remember, when I sleep in sheets, regardless of whether they’re clean, regardless of whether I’m sleeping alone or with her or with my parents, I can feel about the invisible intangible sediments of our bodies’ earth soiling into the cloth, dead reminders I am alive, when I fuck with absolute depravity and desperation my conservative mind screams at me about how wrong it is and I imagine how I’d use to sweep dust into a corner of the house thinking if I couldn’t see it it didn’t exist, thinking if two people fucked in a forest and no one was around to hear it, they clearly weren’t doing it right, when I walk the still streets of soft sunrise I can’t help but wonder if being on the ground and being in the sky are two sidewalks on the same road, I wonder if I jumped, my feet not even fully leaving the concrete, at what point I’d traverse from one into the other and if it’d even matter now knowing the richness both contain, because when I live my dirty life with *nothing* as the forerunning theme, no prospects, no dreams, and no chance of furthering my relationship with my parents, I am doing exactly what ba má ask of me, because it is impossible to live with complete purity, or blank absence, or infinite happiness, or whatever you want to call it. I live my life fully filled with nothing. And, for me and all of the other invaders of this country, that’s more than enough.
 
 There are days when I come back to visit my dad. He’s always tending his garden in the back. Despite the years getting by, he’s as resilient as ever. When we look at each other, he greets me with the same expression he had when we were both decades younger, saying:
 
