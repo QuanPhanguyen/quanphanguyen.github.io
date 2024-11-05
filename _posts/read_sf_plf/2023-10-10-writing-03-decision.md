@@ -22,7 +22,7 @@ tags:
 
 ![My Image](/assets/images/decisionmin.png "decision")
 
-*This story has been formatted to accustom this web browser. Whenever you see the symbols "[[]]" with a question above it centered on the page, it is an indicator that you must make a decision. Head toward the next bolded title with your choice's name.*
+<!-- *This story has been formatted to accustom this web browser. Whenever you see the symbols "[[]]" with a question above it centered on the page, it is an indicator that you must make a decision. Head toward the next bolded title with your choice's name.*
 
 
 
@@ -413,4 +413,4 @@ What will you say to them?
 
 > Artwork my talented classmate Isabel Li made upon finishing *Decision.*
 
-![My Image](/assets/images/decisionmin.png "decision")
+![My Image](/assets/images/decisionmin.png "decision") -->
