@@ -5,7 +5,6 @@ subtitle:   "Historical Research"
 navcolor:   "invert"
 header-style: text
 date:       2024-04-27
-pinned: true
 author:     "Quan"
 tags:
     - Writing
