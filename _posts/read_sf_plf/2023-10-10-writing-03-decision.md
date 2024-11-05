@@ -409,6 +409,6 @@ And when you eventually see them, someone repeating the process for you, there i
 
 What will you say to them?
 
-> Artwork my classmate made upon finishing *Decision.*
+> Artwork my talented classmate Isabel Li made upon finishing *Decision.*
 
-![My Image](/assets/images/decision.png "Decision")
+![My Image](/assets/images/pluto6.png "pluto6")
