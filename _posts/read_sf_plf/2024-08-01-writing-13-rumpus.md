@@ -13,7 +13,7 @@ tags:
     - Submission
 ---
 
-> My breakthrough rejected submission. I polished this at a professor's recommendation, and am pleased with the result even if
+> My first submission ended in rejection. I polished this at a professor's recommendation, and am pleased with the result even if
 > I feel it to be not the type of story I wish to be known for.
 
 I have never given my parents a birthday present and they returned the sentiment in kind, though this would make more sense reversed considering it would be difficult for me to gift them with anything other than my presence less than a year out of the womb.
