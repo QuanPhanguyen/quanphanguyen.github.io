@@ -411,4 +411,8 @@ What will you say to them?
 
 > Artwork my classmate made upon finishing *Decision.*
 
+
+
+
+
 ![My Image](/assets/images/decision.png "Decision")
