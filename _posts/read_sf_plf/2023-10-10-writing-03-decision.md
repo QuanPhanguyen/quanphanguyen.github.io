@@ -13,11 +13,16 @@ tags:
 
 > For my second assignment in my Asian-American creative writing class, I had ambitious schematics. The
 > outline for this story is already 2000 words on its own, and it also contains two drawn flowcharts for 
-> easy navigation. I wanted something beyond structural uniqueness; I wanted a story whose organization
+> easy navigation. I recommend checking it out once you've finished reading *Decision.* I wanted something 
+> beyond structural uniqueness; I wanted a story whose organization
 > aided in coveying its message twicefold. What better idea comes to mind than the complex journey of life 
 > and the false freedom a pick your path story grants you? 
 
+## [Outline](https://docs.google.com/document/d/e/2PACX-1vQlpuGlSq5z-QctAPin5zlD41nuq6Tt5eyMMDyVN0BElgIcVEtzLChln3uRt38aR3XAt3KG61I3JXdR/pub) <!-- Link to full story -->
+
 *This story has been formatted to accustom this web browser. Whenever you see the symbols "[[]]" with a question above it centered on the page, it is an indicator that you must make a decision. Head toward the next bolded title with your choice's name.*
+
+
 
 When you come to be, there sits an empty tea cup in your hands. You let it slip from your fingers.
 
@@ -61,7 +66,7 @@ You say no.
 
 <p align="center">
 
-**[[“Who are you?” // “Why am I here?”]]**
+<b>[[“Who are you?” // “Why am I here?”]]**</b>
 
 </p>
 
@@ -405,4 +410,5 @@ And when you eventually see them, someone repeating the process for you, there i
 What will you say to them?
 
 > Artwork my classmate made upon finishing *Decision.*
+
 ![My Image](/assets/images/decision.png "Decision")
