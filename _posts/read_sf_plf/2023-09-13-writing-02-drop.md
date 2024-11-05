@@ -47,7 +47,7 @@ He hits the wall when I brush past. Looking down into the shadows of the corrido
 
 I glance down at my ring finger. A jade sea rests at the tip, swirling around as though my fingernail was a container for liquid instead of an acrylic art piece. Well, the sea is a powerful expression. It looks more like a riverbed after a sweltering day. I shake it, hoping to somehow change what I see. Two or three charges left, maybe? A great gamble awaits me if I were to try to obtain more in the future. Being unable to find him, however, guarantees that I lose everything now. I swallow my greed and press my thumb against my middle finger. As the other two point forward, the nail on my ring finger slides down my palm, incising it. The mixture seeps into the freshly opened wound. Just a drop will do it, as I quickly stretch my hand out again.
 
-“(Con) Chó.” Drop the classifier. Destroy the boundary between us. Deliver onto me sensations unworldly. As inhuman lines rise from ordinarily indiscernible scents, one in particular stenches of deceit. My maw tightens.
+“(Con) **Chó**.” Drop the classifier. Destroy the boundary between us. Deliver onto me sensations unworldly. As inhuman lines rise from ordinarily indiscernible scents, one in particular stenches of deceit. My maw tightens.
 
 I venture deeper into tunneling spirals, turning and turning down split pathways. The signals grow strong. It lures me toward a dead end. My brisk trot slows, returning back to a steady walk. The smooth, cold walls of the alley buildings meet my touch as I use them to guide me forward. One drop isn’t enough to emulate all of the traits, I remember as I trudge forward without sight. 
 
@@ -55,7 +55,7 @@ Suddenly, sensory overload blinds me. An eye, pupilless, beams down and coats th
 
 A roar sludging iron signals his advance. He expects me to move and yet I stand still, repeating the same hand gesture from earlier. The wound is fresh, allowing a much quicker transfusion, though I am still not sure if it’s enough. The alternative was dire. Catching up to him by foot will be near impossible if I allow him to leave here. Rubber spins and grinds against the loose cobblestone pavement, drowning out my incoming flurried words.
 
-“(Con) Tê Tê!”
+“(Con) **Tê Tê!**”
 
 The chimeric vehicle pounces at me. His driver’s eyes trace me from underneath his visor as I am forced to move aside or be run over. No. It’s too early. I know it even as I strike the wheel with a scaly hand. The claws haven’t even made their way out yet. The metallic creature yelps, leg crumpling as it swerves for a brief moment, but we both know that the blow is non-crippling. Another batch of petrol sputters into my face as I watch it go off, its master surely laughing at me. 
 
@@ -73,7 +73,7 @@ I scan ahead. Is there any way for me to possibly catch up… Peak hours say yes
 
 The real problem comes after identifying the route. There isn’t even a chance of cutting him off if I were to go on foot. Traffic extends itself to congestion, which itself extends to a trickling pedestrian movement. With only one chance remaining, I need something that will grant me swift movement and lightning grasps. 
 
-“(Con) Cò.”
+“(Con) **Cò.**”
 
 I leap off of the building. Spectral wings, unfurling from the fourth ridge on my spine, guide my descent. The first landing is the roughest, as I nearly keel over on all fours. This wasn’t exactly a familiar experience for me. To an outsider, the tight, feathered frame makes my hovering to the other building look impossible. A native, however, would be surprised that I am stopping to touch ground again at all, considering the beast I had called upon. One down, many more to go. Công Ty Tnhh is the final building I have before I would have to dive down. Buildings usually aren’t constructed in rivers, which is what the bridge crosses. Let’s hope it doesn’t reach that point. 
 
