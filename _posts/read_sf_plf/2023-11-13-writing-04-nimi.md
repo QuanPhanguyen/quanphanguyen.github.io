@@ -5,6 +5,7 @@ subtitle:   "One Vietnamese-American Life"
 navcolor:   "invert"
 header-style: text
 date:       2023-11-13
+pinned: true
 author:     "Quan"
 tags:
     - Writing
