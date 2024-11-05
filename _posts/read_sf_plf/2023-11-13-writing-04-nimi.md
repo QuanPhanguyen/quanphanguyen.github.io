@@ -10,6 +10,7 @@ author:     "Quan"
 tags:
     - Writing
     - Short Fiction
+    - Submission
 ---
 
 > For my final assignment in my Asian-American creative writing class, I placed my full beating heart. I 
@@ -17,7 +18,7 @@ tags:
 > piece of feedback I received for this work was the question, why does it exist? What is its purpose? I  
 > tried to instill the feeling as hard as possible that it was purposeless. If this sounds snobbish,  
 > proud, and haughty, it is. That is who I am. I cried when finishing this piece because it took all of 
-> me. Thank you for your time.
+> me. This piece was submitted to the Diasporic Vietnamese Artists Network. Thank you for your time.
 
 This will be a dirty confession.
 
