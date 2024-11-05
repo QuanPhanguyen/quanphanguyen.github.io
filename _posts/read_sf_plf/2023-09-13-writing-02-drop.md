@@ -1,7 +1,9 @@
 ---
 layout:     post
 title:      "Drop"
-navcolor:   "Vietnamese Fantasy Chase Scene"
+subtitle:   "Vietnamese Fantasy Chase Scene"
+navcolor:   "invert"
+header-style: text
 date:       2023-09-13
 author:     "Quan"
 tags:
