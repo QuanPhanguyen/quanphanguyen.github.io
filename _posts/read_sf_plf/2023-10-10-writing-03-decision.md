@@ -411,4 +411,4 @@ What will you say to them?
 
 > Artwork my talented classmate Isabel Li made upon finishing *Decision.*
 
-![My Image](/assets/images/pluto6.png "pluto6")
+![My Image](/assets/images/decisionmin.png "decision")

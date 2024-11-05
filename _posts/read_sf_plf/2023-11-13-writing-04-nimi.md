@@ -93,7 +93,7 @@ Sorry. That’s my distortion of what they said. Even if you’re unsure of what
 
 “Không có gì quan trọng hơn hạnh phúc của con.”
 
-Không có gì, or khoong cos gif when typed using a United States keyboard layout, or it was nothing when used as a phrase on its own after you thank your parents for doing something for you, or nothing is more important when combined with two topics as the first half of a sentence, or the start of my parent's rebuttal to me when I argued with them that it was time for me to pick up a shift at Lucky’s to contribute to our piling bills, is something I’ve fixated on my entire life.
+*Không có gì*, or *khoong cos gif* when typed using a United States keyboard layout, or *it was nothing* when used as a phrase on its own after you thank your parents for doing something for you, or nothing is more important when combined with two topics as the first half of a sentence, or the start of my parent's rebuttal to me when I argued with them that it was time for me to pick up a shift at Lucky’s to contribute to our piling bills, is something I’ve fixated on my entire life.
 
 On its own, it would never mean nothing is more important because we consider that phrase, even here in the States, to be incomplete. 
 
@@ -103,7 +103,7 @@ The phrase I omitted the first time, của con, should not be mistaken with just
 
 To deeply care for your parents is the greatest act of love and betrayal you can show them.
 
-— (3): UNSPORTSMANLIKE
+*— (3): UNSPORTSMANLIKE*
 
 Do you need a breather? I think I remember being unable to get out of bed for the entire day after I had that argument with my parents. We had fought before (it always looks like a fight to an outsider, but it was really the only way we knew how to talk) but not like this. If the fights before were the cheap 25¢ firecrackers you buy in those small boxes filled with grain and wrapped in cheap paper, making noisy yet meaningless pops, the one on that day was the black and white videos of napalm falling on our country. Dampened sound, uncanny clarity, and no footage of a real aftermath. Only an imagined one. 
 
