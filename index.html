@@ -35,7 +35,7 @@ description: "Writing Portfolio"
 {% endif %}
 
 <!-- Display non-pinned posts -->
-{% for post in paginator.posts %}
+<!-- {% for post in paginator.posts %}
     {% unless post.pinned %}
     <div class="post-preview">
         <a href="{{ post.url | prepend: site.baseurl }}">
@@ -61,7 +61,7 @@ description: "Writing Portfolio"
     </div>
     <hr>
     {% endunless %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
