@@ -30,7 +30,9 @@ Regardless of what I say, you will come up with your own conclusions about how t
 
 So, once again, let me begin. 
 
+
 *—  2a: morally unclean or corrupt: such as*
+
 
 I was eight years old when I first felt what having sex was like.
 
@@ -58,7 +60,9 @@ But I know.
 
 I know what sex is before I know what sex means.
 
+
 *— (1): INDECENT, VULGAR*
+
 
 For how enamored my parents are over each other, it’s a wonder this only happened to me a few times. I’m sure there were many more instances in which I didn’t wake up.
 
@@ -76,7 +80,9 @@ I have been called a backward savage for less. I think real backward savagery is
 
 So hold nothing against them.
 
+
 *— (2): DISHONORABLE, BASE*
+
 
 How are you feeling about the confession so far? I would list some possible inklings you may have, but I have lied sunken in between these dreaming clouds of nothing-thoughts for so long that not only can I no longer hold any major feelings about it anymore, I have no memory of what those feelings could be. I only ask for one thing, and that is for you to not treat this as a tragedy. 
 
@@ -104,7 +110,9 @@ The phrase I omitted the first time, của con, should not be mistaken with just
 
 To deeply care for your parents is the greatest act of love and betrayal you can show them.
 
+
 *— (3): UNSPORTSMANLIKE*
+
 
 Do you need a breather? I think I remember being unable to get out of bed for the entire day after I had that argument with my parents. We had fought before (it always looks like a fight to an outsider, but it was really the only way we knew how to talk) but not like this. If the fights before were the cheap 25¢ firecrackers you buy in those small boxes filled with grain and wrapped in cheap paper, making noisy yet meaningless pops, the one on that day was the black and white videos of napalm falling on our country. Dampened sound, uncanny clarity, and no footage of a real aftermath. Only an imagined one. 
 
@@ -138,7 +146,9 @@ I am appeasing a dirty part of myself.
 
 Even as my language grows to new heights, built continually upon with the visage of my interview being its foundation, I continue to write dirtily, because when you make a dirty rag more clean, if you can even know if in this situation we are making a dirty rag cleaner or a near-clean rag dirtier– I certainly hope I am doing the former, they are both still dirty regardless. 
 
+
 *— 1a: not clean or pure*
+
 
 The Vietnamese word for dirty is *dơ.* It is near-identical to its counterpart in English, used in every instance you can imagine dirty being used. When I asked my parents what they thought of same-sex relationships, about a year before I started dating my wife but a lifetime after I knew I was gay, they said it was *dơ.*
 
@@ -168,7 +178,9 @@ My mother cared more about whether or not my partner was Vietnamese than whether
 
 I’m very lucky. If I had answered with a non-Asian race, I think I would’ve really gotten disowned (though with the size of the pause before her acceptance, I think Asians not from the Southeast would’ve been a dangerous answer too). What would I have done if things had not turned out this way? Here’s the wonderful part about a written confession. You don’t get to know.
 
+
 *— 1b: likely to befoul or defile with a soiling substance (such as mud, dust, or grime)*
+
 
 Is it time I introduce my girlfriend, wife, lover? Well, what do you wish to know? We met at work– or, well, when I was at work. She was a college student who did most of her grocery shopping around the same time I was working (ignore her yelling it was a coincidence in the background, it was very much intentional). You have to remember we were horny adults who had never gotten any action in the 90s. Progression hindered by repression and suppression. We became friends, waded the muddy water between romantic and platonic for half a year, and sealed the deal with a charged exchange.
 
@@ -188,7 +200,9 @@ Eventually, late that night, after my lover and I were long asleep, I’d be awo
 
 “Mẹ bị trúng gió.”
 
+
 *— 3b: highly regrettable*
+
 
 Vietnamese people believe in the idea of a “dirty wind.” *Trúng gió.* Dirty isn’t the correct word to describe it, but it is as close as you will get. It’s a superstition. It’s a way to cope. It’s nonsense. It goes as follows:
 
@@ -206,7 +220,9 @@ It is a little bit funny in retrospect. Here I was, thinking about how my new re
 
 I had been drifting in substance this entire time.
 
+
 *— 3a: ABOMINABLE, HATEFUL*
+
 
 I am twenty-five years old when I am called a slur for the first time. It was a crazed customer looking for the manager of the manager. 
 
@@ -228,7 +244,9 @@ The reason why you become drunk when drinking alcohol is because the ethanol ins
 
 What a lovely instrument. Now I could make my outsides clean and my insides dirty.
 
+
 *— 1d: containing impurities*
+
 
 Do you remember when I said that this story would not be a tragedy? Or have you forgotten? It’s alright if you have, this has been a loose collection of blurriness, literally and metaphorically. I will conclude and you can draw your own conclusion. 
 
