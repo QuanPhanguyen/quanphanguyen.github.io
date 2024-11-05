@@ -168,7 +168,7 @@ My mother cared more about whether or not my partner was Vietnamese than whether
 
 I’m very lucky. If I had answered with a non-Asian race, I think I would’ve really gotten disowned (though with the size of the pause before her acceptance, I think Asians not from the Southeast would’ve been a dangerous answer too). What would I have done if things had not turned out this way? Here’s the wonderful part about a written confession. You don’t get to know.
 
-— 1b: likely to befoul or defile with a soiling substance (such as mud, dust, or grime)
+*— 1b: likely to befoul or defile with a soiling substance (such as mud, dust, or grime)*
 
 Is it time I introduce my girlfriend, wife, lover? Well, what do you wish to know? We met at work– or, well, when I was at work. She was a college student who did most of her grocery shopping around the same time I was working (ignore her yelling it was a coincidence in the background, it was very much intentional). You have to remember we were horny adults who had never gotten any action in the 90s. Progression hindered by repression and suppression. We became friends, waded the muddy water between romantic and platonic for half a year, and sealed the deal with a charged exchange.
 
@@ -188,15 +188,15 @@ Eventually, late that night, after my lover and I were long asleep, I’d be awo
 
 “Mẹ bị trúng gió.”
 
-— 3b: highly regrettable
+*— 3b: highly regrettable*
 
-Vietnamese people believe in the idea of a “dirty wind.” Trúng gió. Dirty isn’t the correct word to describe it, but it is as close as you will get. It’s a superstition. It’s a way to cope. It’s nonsense. It goes as follows:
+Vietnamese people believe in the idea of a “dirty wind.” *Trúng gió.* Dirty isn’t the correct word to describe it, but it is as close as you will get. It’s a superstition. It’s a way to cope. It’s nonsense. It goes as follows:
 
 Essentially, sparse between the layers of wind, there are certain malignant bales which can descend upon anyone at any time to afflict them with an assortment of maladies or ailments. 
 
 The solution? 
 
-Cupping therapy and Eagle Brand Medicated Oil. Funnily, instead of being medicinal to me as a child, I always thought of them as sickly items. Going too far in one direction brings you back to the other. Giác hơi. By sucking on someone’s back using heated cups, you essentially drag the poisonous, cursed air out of them. 
+Cupping therapy and Eagle Brand Medicated Oil. Funnily, instead of being medicinal to me as a child, I always thought of them as sickly items. Going too far in one direction brings you back to the other. *Giác hơi.* By sucking on someone’s back using heated cups, you essentially drag the poisonous, cursed air out of them. 
 
 It was slightly difficult to convince the American doctors at the time to try this out while my mom was hospitalized. I had to wonder: Why do they care so much? Ba and I are the ones paying them the exorbitant amount of money, they should let us put hot cups on her back if we want.
 
@@ -206,7 +206,7 @@ It is a little bit funny in retrospect. Here I was, thinking about how my new re
 
 I had been drifting in substance this entire time.
 
-— 3a: ABOMINABLE, HATEFUL
+*— 3a: ABOMINABLE, HATEFUL*
 
 I am twenty-five years old when I am called a slur for the first time. It was a crazed customer looking for the manager of the manager. 
 
@@ -228,7 +228,7 @@ The reason why you become drunk when drinking alcohol is because the ethanol ins
 
 What a lovely instrument. Now I could make my outsides clean and my insides dirty.
 
-— 1d: containing impurities
+*— 1d: containing impurities*
 
 Do you remember when I said that this story would not be a tragedy? Or have you forgotten? It’s alright if you have, this has been a loose collection of blurriness, literally and metaphorically. I will conclude and you can draw your own conclusion. 
 
@@ -248,10 +248,10 @@ Nothing is more important than happiness.
 
 Nothing is more important.
 
-Nothing
+*Nothing*
 is more important.
 
-Because when I begin my weekly visits to my parent’s house, as opposed to my parents’ house, I know if I tried to recall the last time we’ve eaten as three I wouldn’t be able to remember, and I wonder if I ever was able to remember, when I sleep in sheets, regardless of whether they’re clean, regardless of whether I’m sleeping alone or with her or with my parents, I can feel about the invisible intangible sediments of our bodies’ earth soiling into the cloth, dead reminders I am alive, when I fuck with absolute depravity and desperation my conservative mind screams at me about how wrong it is and I imagine how I’d use to sweep dust into a corner of the house thinking if I couldn’t see it it didn’t exist, thinking if two people fucked in a forest and no one was around to hear it, they clearly weren’t doing it right, when I walk the still streets of soft sunrise I can’t help but wonder if being on the ground and being in the sky are two sidewalks on the same road, I wonder if I jumped, my feet not even fully leaving the concrete, at what point I’d traverse from one into the other and if it’d even matter now knowing the richness both contain, because when I live my dirty life with nothing as the forerunning theme, no prospects, no dreams, and no chance of furthering my relationship with my parents, I am doing exactly what ba má ask of me, because it is impossible to live with complete purity, or blank absence, or infinite happiness, or whatever you want to call it. I live my life fully filled with nothing. And, for me and all of the other invaders of this country, that’s more than enough.
+Because when I begin my weekly visits to my parent’s house, as opposed to my parents’ house, I know if I tried to recall the last time we’ve eaten as three I wouldn’t be able to remember, and I wonder if I ever was able to remember, when I sleep in sheets, regardless of whether they’re clean, regardless of whether I’m sleeping alone or with her or with my parents, I can feel about the invisible intangible sediments of our bodies’ earth soiling into the cloth, dead reminders I am alive, when I fuck with absolute depravity and desperation my conservative mind screams at me about how wrong it is and I imagine how I’d use to sweep dust into a corner of the house thinking if I couldn’t see it it didn’t exist, thinking if two people fucked in a forest and no one was around to hear it, they clearly weren’t doing it right, when I walk the still streets of soft sunrise I can’t help but wonder if being on the ground and being in the sky are two sidewalks on the same road, I wonder if I jumped, my feet not even fully leaving the concrete, at what point I’d traverse from one into the other and if it’d even matter now knowing the richness both contain, because when I live my dirty life with *nothing* as the forerunning theme, no prospects, no dreams, and no chance of furthering my relationship with my parents, I am doing exactly what ba má ask of me, because it is impossible to live with complete purity, or blank absence, or infinite happiness, or whatever you want to call it. I live my life fully filled with nothing. And, for me and all of the other invaders of this country, that’s more than enough.
 
 There are days when I come back to visit my dad. He’s always tending his garden in the back. Despite the years getting by, he’s as resilient as ever. When we look at each other, he greets me with the same expression he had when we were both decades younger, saying:
 
