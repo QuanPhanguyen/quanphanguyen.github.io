@@ -66,7 +66,7 @@ You say no.
 
 <p align="center">
 
-<b>[[“Who are you?” // “Why am I here?”]]**</b>
+<strong>[[“Who are you?” // “Why am I here?”]]</strong>
 
 </p>
 
@@ -106,8 +106,8 @@ You understand. The note unfurls between your fingers.
 
 <p align="center">
 
-**[[What is your reason for coming?]]**
-**[[Great Love // Great Bitterness]]**
+<strong>[[What is your reason for coming?]]</strong>
+<strong>[[Great Love // Great Bitterness]]</strong>
 
 </p>
 
@@ -143,7 +143,7 @@ You lie down on the thin mat. The first day is over.
 
 <p align="center">
 
-**[[Day Two]]**
+<strong>[[Day Two]]</strong>
 
 </p>
 
@@ -223,7 +223,7 @@ Wholly unprepared, the serrated edge is able to clip your arm as you react far t
 
 <p align="center">
 
-**[[With Heart Aching // Through Real Outlook]]**
+<strong>[[With Heart Aching // Through Real Outlook]]</strong>
 
 </p>
 
@@ -239,8 +239,8 @@ The knife coils, making its way from around the pillar, and strikes your rib. A 
 
 <p align="center">
 
-**[[Feel. You can’t put it off any longer.]]**
-**[[Happy  // Accepting]]**
+<strong>[[Feel. You can’t put it off any longer.]]</strong>
+<strong>[[Happy  // Accepting]]</strong>
 
 </p>
 
@@ -256,8 +256,8 @@ The knife coils, making its way from around the pillar, and strikes your rib. A 
 
 <p align="center">
 
-**[[Feel. You can’t put it off any longer.]]**
-**[[Wistful // Depression]]**
+<strong>[[Feel. You can’t put it off any longer.]]</strong>
+<strong>[[Wistful // Depression]]</strong>
 
 </p>
 
@@ -269,7 +269,7 @@ Go back.
 
 <p align="center">
 
-**[[Accepting]]**
+<strong>[[Accepting]]</strong>
 
 </p>
 
@@ -303,7 +303,7 @@ Tomorrow is the final day.
 
 <p align="center">
 
-**[[Day Three]]**
+<strong>[[Day Three]]</strong>
 
 </p>
 
@@ -340,7 +340,7 @@ Tomorrow is the final day.
 
 <p align="center">
 
-**[[Day Three]]**
+<strong>[[Day Three]]</strong>
 
 </p>
 
@@ -377,7 +377,7 @@ Tomorrow is the final day.
 
 <p align="center">
 
-**[[Day Three]]**
+<strong>[[Day Three]]</strong>
 
 </p>
 
